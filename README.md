@@ -1,4 +1,5 @@
 # Veri-yapilari-ve-algoritmalar2
+ www.patika.dev
 # Merge Sort Projesi-Patika.dev
  
  [16,21,11,8,12,22] -> Merge Sort
