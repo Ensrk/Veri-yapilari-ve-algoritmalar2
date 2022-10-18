@@ -20,10 +20,12 @@ sonuçta küçükten büyüğe sıralı elde edilir
  ```
  
  ## 2- Big O Notation Gösterimi
- ```
- Eleman sayısını n olarak alırsak her seferinde yarıya indiği için 2^x=n çözümlemesinden logn = x bulunur
+  ```
+ Eleman sayısını n olarak alırsak eleman sayısı sürekli yarıya inmesi sebebiyle 2^x=n çözümlenirse logn = x bulunur
  ayrıca dizilim için n-1 sorgulama yapıldığı için time complexity O(n) olur.
  İkisi dahil edilirse Big O notation tüm caseler için O(n*logn) bulunur.
+  ```
+   ```
  Worst case   : O(n*logn)
  Average case : O(n*logn)
  Best case    : O(n*logn)
